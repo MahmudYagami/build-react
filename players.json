@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/z2YLfrV/Designer-9.jpg",
+    "name": "Jason Holder",
+    "country_name": "West Indies",
+    "role": "Batsman",
+    "rating": 9.8,
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Medium",
+    "price": "1450000"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/L0jXhxs/Designer-8.jpg",
+    "name": "Sikandar Raza",
+    "country_name": "Zimbabwe",
+    "role": "Bowler",
+    "rating": 9.5,
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Fast",
+    "price": "1380000"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/W6M92dK/Designer-7.jpg",
+    "name": "Kagiso Rabada",
+    "country_name": "South Africa",
+    "role": "All-Rounder",
+    "rating": 9.7,
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Right-Arm Fast-Medium",
+    "price": "1420000"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/Kz5TZyK/Designer-6.jpg",
+    "name": "Kane Williamson",
+    "country_name": "New Zealand",
+    "role": "Batsman",
+    "rating": 9.6,
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Off Break",
+    "price": "1190000"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/WgCmBRJ/Designer-5.jpg",
+    "name": "Babar Azam",
+    "country_name": "Pakistan",
+    "role": "Bowler",
+    "rating": 9.9,
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Leg Break",
+    "price": "1250000"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/t3csL8K/Designer-4.jpg",
+    "name": "Rashid Khan",
+    "country_name": "Afghanistan",
+    "role": "All-Rounder",
+    "rating": 9.4,
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Fast-Medium",
+    "price": "1340000"
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/CKv7jLd/Designer-3.jpg",
+    "name": "Steve Smith",
+    "country_name": "Australia",
+    "role": "Batsman",
+    "rating": 9.3,
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Leg Break",
+    "price": "1230000"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/hyszjmc/Designer-2.jpg",
+    "name": "Joe Root",
+    "country_name": "England",
+    "role": "All-Rounder",
+    "rating": 9.6,
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Left-Arm Orthodox",
+    "price": "1160000"
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/7RRMrDx/Designer-1.jpg",
+    "name": "Mustafizur Rahman",
+    "country_name": "Bangladesh",
+    "role": "Bowler",
+    "rating": 9.1,
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Left-Arm Fast-Medium",
+    "price": "1020000"
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/KF2q9xB/Designer.jpg",
+    "name": "Virat Kohli",
+    "country_name": "India",
+    "role": "Batsman",
+    "rating": 8.9,
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Right-Arm Off Break",
+    "price": "970000"
+  }
+]
